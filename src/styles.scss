@@ -7,3 +7,11 @@ body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
+
+.botton {
+  width: 165px;
+  padding: 0.825rem 1.5rem;
+  font-size: 18px;
+  border: 3px solid var(--bs-body-color);
+  background-color: transparent;
+}
